@@ -1,0 +1,19 @@
+ !DOCTYPE html>
+<html>
+<head>
+	<title>Welcome Hacker Smackers</title>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+	<script src="app.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+</head>
+
+<body ng-app="readitSmacker" ng-controller="MainCtrl">
+  <div>
+        {{test}}    
+  <div>
+<div ng-repeat="post in posts | orderBy: '-upvotes'">
+  {{post.title}} - upvotes: {{post.upvotes}}
+</div>  
+</body>
+</html>
