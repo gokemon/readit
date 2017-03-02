@@ -36,3 +36,12 @@ In addition to technologies that make up MEAN, I'm going to use several other li
 1. Creating the Login and Register pages
 
 ----------
+#### My git steps:
+
+- git add -A
+- git commit -m "Add a comment"
+- git tag step1
+- git status
+- git push
+
+----------
