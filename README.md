@@ -47,3 +47,5 @@ In addition to technologies that make up MEAN, I'm going to use several other li
 ----------
 Also added to my project going from sublime editor to visual studio code tool
 https://code.visualstudio.com/docs?start=true
+
+messing with seperate commits
