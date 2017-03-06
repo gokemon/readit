@@ -16,15 +16,7 @@ function($scope, posts){
   //Binds my $scope.posts variable in our controller to the posts array in my factory service above
   $scope.posts = posts.posts;
   
-  //Sample Data
-  // $scope.posts = [
-  //   {title: 'post 1', upvotes: 5},
-  //   {title: 'post 2', upvotes: 2},
-  //   {title: 'post 3', upvotes: 15},
-  //   {title: 'post 4', upvotes: 9},
-  //   {title: 'post 5', upvotes: 4}
-  // ];
-  // Removed when I bound my posts array to my facorty service arraay
+  
   
   //Adding a post
 $scope.addPost = function(){
