@@ -20,9 +20,9 @@ In addition to technologies that make up MEAN, I'm going to use several other li
 
 ----------
 ## Steps I think I'll work through ##
-1. Jumping in with Angular
-1. Getting User Input
-1. Adding Some CSS Styles
+1. Jumping in with Angular - done
+1. Getting User Input - done
+1. Adding Some CSS Styles -done
 1. Routing Views with Angular
 1. Creating the Posts Page
 1. Getting Started with Express
@@ -45,3 +45,5 @@ In addition to technologies that make up MEAN, I'm going to use several other li
 - git push
 
 ----------
+Also added to my project going from sublime editor to visual studio code tool
+https://code.visualstudio.com/docs?start=true
