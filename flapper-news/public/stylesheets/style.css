@@ -1,8 +1,4 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
-a {
-  color: #00B7FF;
-}
+.glyphicon-thumbs-up { cursor:pointer } 
+
