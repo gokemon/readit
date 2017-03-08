@@ -1,6 +1,6 @@
 {
   "name": "flapper-news",
-  "version": "0.0.0",
+  "version": "0.0.8",
   "author": "Michael Gokey",
   "private": true,
   "license": "MIT",
@@ -16,8 +16,5 @@
     "mongoose": "^4.8.6",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.2"
-  }
-  "engines": {
-    "node": "4.4.1"
   }
 }
