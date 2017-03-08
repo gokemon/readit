@@ -23,9 +23,10 @@ In addition to technologies that make up MEAN, I'm going to use several other li
 1. Jumping in with Angular - done
 1. Getting User Input - done
 1. Adding Some CSS Styles -done ~ [http://codepen.io/gokemon/pen/RpPOWd](http://codepen.io/gokemon/pen/RpPOWd)
-1. Routing Views with Angular -done ~ http://codepen.io/gokemon/pen/JWbyeK
-1. Creating the Posts Page -done
-1. Getting Started with Express -done
+1. Routing Views with Angular -done
+1. Creating the Posts Page -done ~ [http://codepen.io/gokemon/pen/JWbyeK](http://codepen.io/gokemon/pen/JWbyeK)
+1. Getting Started with Express -done ~ [https://warm-sands-78175.herokuapp.com/](https://warm-sands-78175.herokuapp.com/)
+ -not loading a page yet, but the title shows up
 1. Creating Schemas With Mongoose
 1. Opening REST Routes
 1. Wiring Everything Up
