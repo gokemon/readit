@@ -49,9 +49,9 @@ app.use(function(err, req, res, next) {
 require('./models/posts');
 require('./models/comments');
 // connect to local database
-//mongoose.connect('mongodb://localhost/news');
-mongoose.connect('mongodb://<dbuser>:<dbpassword>@ds123400.mlab.com:23400/heroku_q8hcvzwq');
-// sample ~ mongodb://<dbuser>:<dbpassword>@ds123400.mlab.com:23400/heroku_q8hcvzwq
+mongoose.connect('mongodb://localhost/news');
+// mongoose.connect('mongodb://<dbuser>:<dbpassword>@ds123400.mlab.com:23400/heroku_q8hcvzwq');
+
 
 
 

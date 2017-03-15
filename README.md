@@ -52,3 +52,6 @@ https://code.visualstudio.com/docs?start=true
 messing with separate commits
 
 thinkster.io/tutorials/mean-stack
+
+one guy is having a simular problem
+http://stackoverflow.com/questions/24946673/application-error-when-attempting-to-deploy-node-js-express-socket-io-applicatio
