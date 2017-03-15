@@ -27,8 +27,8 @@ In addition to technologies that make up MEAN, I'm going to use several other li
 1. Creating the Posts Page -done ~ [http://codepen.io/gokemon/pen/JWbyeK](http://codepen.io/gokemon/pen/JWbyeK)
 1. Getting Started with Express -done ~ [https://warm-sands-78175.herokuapp.com/](https://warm-sands-78175.herokuapp.com/)
  -not loading a page yet, but the title shows up
-1. Creating Schemas With Mongoose
-1. Opening REST Routes
+1. Creating Schemas With Mongoose -done
+1. Opening REST Routes -done
 1. Wiring Everything Up
 1. Extending the User Model for Authentication
 1. Setting up Passport
