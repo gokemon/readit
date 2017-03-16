@@ -29,7 +29,7 @@ In addition to technologies that make up MEAN, I'm going to use several other li
  -not loading a page yet, but the title shows up
 1. Creating Schemas With Mongoose -done
 1. Opening REST Routes -done
-1. Wiring Everything Up
+1. Wiring Everything Up  -coded with errors in last couple of sections, the posts works, comments not so much
 1. Extending the User Model for Authentication
 1. Setting up Passport
 1. Securing Endpoints with JWT Authentication
@@ -55,3 +55,5 @@ thinkster.io/tutorials/mean-stack
 
 one guy is having a simular problem
 http://stackoverflow.com/questions/24946673/application-error-when-attempting-to-deploy-node-js-express-socket-io-applicatio
+
+https://thinkster.io/tutorials/mean-stack/opening-rest-routes
